@@ -1,0 +1,14 @@
+C:\Users\cbush\source\playground\contact-api\bin\Debug\netcoreapp2.2\contact-api.deps.json
+C:\Users\cbush\source\playground\contact-api\bin\Debug\netcoreapp2.2\contact-api.runtimeconfig.json
+C:\Users\cbush\source\playground\contact-api\bin\Debug\netcoreapp2.2\contact-api.runtimeconfig.dev.json
+C:\Users\cbush\source\playground\contact-api\bin\Debug\netcoreapp2.2\contact-api.dll
+C:\Users\cbush\source\playground\contact-api\bin\Debug\netcoreapp2.2\contact-api.pdb
+C:\Users\cbush\source\playground\contact-api\obj\Debug\netcoreapp2.2\contact-api.csprojAssemblyReference.cache
+C:\Users\cbush\source\playground\contact-api\obj\Debug\netcoreapp2.2\contact-api.csproj.CoreCompileInputs.cache
+C:\Users\cbush\source\playground\contact-api\obj\Debug\netcoreapp2.2\contact-api.RazorAssemblyInfo.cache
+C:\Users\cbush\source\playground\contact-api\obj\Debug\netcoreapp2.2\contact-api.RazorAssemblyInfo.cs
+C:\Users\cbush\source\playground\contact-api\obj\Debug\netcoreapp2.2\contact-api.AssemblyInfoInputs.cache
+C:\Users\cbush\source\playground\contact-api\obj\Debug\netcoreapp2.2\contact-api.AssemblyInfo.cs
+C:\Users\cbush\source\playground\contact-api\obj\Debug\netcoreapp2.2\contact-api.RazorTargetAssemblyInfo.cache
+C:\Users\cbush\source\playground\contact-api\obj\Debug\netcoreapp2.2\contact-api.dll
+C:\Users\cbush\source\playground\contact-api\obj\Debug\netcoreapp2.2\contact-api.pdb
