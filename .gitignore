@@ -173,6 +173,7 @@ FakesAssemblies/
 /packages/ChameleonForms.1.2.0.16
 +/.vs/config
 .vs/
+.vscode/
 
 
 # Visual Studio 2015 cache/options directory
